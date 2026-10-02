@@ -17,9 +17,9 @@ Aplicação Android desenvolvida para o **Tema A — Teste de Cobertura Wi-Fi**,
 - **Minimum SDK:** 23
 
 ## 👥 Membros
-1. Nome completo — Nº
-2. Nome completo — Nº
-3. Nome completo — Nº
+1. Edmilson Anselmo Mugabe — 2023111036
+2. Kelvin Charles Combane — 202301931
+3. Sherlon Abel de Afonso Manjate — 2020111198
 4. Nome completo — Nº
 
 ## 📌 Descrição
