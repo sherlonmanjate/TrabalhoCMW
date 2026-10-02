@@ -1,4 +1,4 @@
-# 📶 CharlesWifi
+# 📶 Trabalho CMW - Wifi
 
 Aplicação Android desenvolvida para o **Tema A — Teste de Cobertura Wi-Fi**, permitindo pesquisar redes Wi-Fi próximas, identificar o SSID e apresentar a intensidade do sinal através do RSSI.
 
